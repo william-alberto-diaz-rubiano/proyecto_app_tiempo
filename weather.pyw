@@ -1,5 +1,6 @@
 from tkinter import *
 import requests
+"""aplicacion del tiempo utilizando una api"""
 
 def weather_json(city_name):
     try:
